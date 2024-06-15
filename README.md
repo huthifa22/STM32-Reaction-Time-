@@ -1,6 +1,6 @@
 # Project Specifications 
 
-This project implements a reaction time game using an STM32F4 microcontroller. The goal is to mesaure a users reaction time by seeing how fast they can press a button the moment that the green led turns on. Each round starts with a quick startup sequence for the LEDs, cycling from red to yellow to green three times. After that, there will be a slower fixed time from red to yellow and then a random time from yellow to green to measure a proper reaction time. The reaction time is then indicated by a light sequence. If the reaction is fast, the green LED will blink. If it's slow, the red LED will blink. If it's average, the yellow LED will blink.
+This project implements a reaction time game using an STM32F4 microcontroller. The goal is to measure a user's reaction time by seeing how fast they can press a button the moment the green LED turns on. Each round starts with a quick startup sequence for the LEDs, cycling from red to yellow to green three times. After that, there will be a slower fixed time from red to yellow and a random time from yellow to green to measure a proper reaction time. A light sequence then indicates the reaction time. If the reaction is fast, the green LED will blink fast. If it's slow, the red LED will blink. If it's average, the yellow LED will blink.
 
 # Software 
 
@@ -11,7 +11,7 @@ This project implements a reaction time game using an STM32F4 microcontroller. T
 - STM32F407VG microcontroller
 - On board Joystick from the STM board
 - Breadboard
-- LEDs:Red, Yellow, Green
+- LEDs: Red, Yellow, Green
 - Resistors: 150 ohms 
 - Jumper wires
 
