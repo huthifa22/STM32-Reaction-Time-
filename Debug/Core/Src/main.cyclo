@@ -1,0 +1,6 @@
+../Core/Src/main.c:7:6:GPIO_Init	1
+../Core/Src/main.c:25:6:Toggle_LED	1
+../Core/Src/main.c:29:6:Turn_Off_LED	1
+../Core/Src/main.c:32:6:intro	2
+../Core/Src/main.c:54:6:Blink_LED	2
+../Core/Src/main.c:63:5:main	7
