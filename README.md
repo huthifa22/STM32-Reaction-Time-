@@ -23,6 +23,7 @@ This project implements a reaction time game using an STM32F4 microcontroller. T
 - PA5: Green LED output
 
 
+![IMG_0016](https://github.com/huthifa22/STM32F407VG-Reaction-Time/assets/105901978/9d21ee3e-8dcc-482a-9909-94df83e1dccc)
 
 https://github.com/huthifa22/STM32-Reaction-Time-/assets/105901978/5590faad-d3b4-4f97-8ada-a7828ce8bd0f
 
